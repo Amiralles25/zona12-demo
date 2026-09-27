@@ -8,7 +8,7 @@
 [![CI](https://img.shields.io/badge/CI-GitHub%20Actions-2088ff?style=flat-square)](#ci-y-demo-pública)
 
 **Demo pública:** [zona12.dpdns.org](https://zona12.dpdns.org/)
-
+Debido a que está alojado en un servidor gratuito, quizás haya que esperar 15-30s en que se carguen las imagenes la primera vez que se entra.
 ---
 
 ## Índice
