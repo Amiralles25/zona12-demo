@@ -1,0 +1,1 @@
+Estas son las imagenes de referencia para el diseño de la web inicialmente. Durante el proceso de creación de las distintas páginas surgían ideas de mejoras o cambios que hicieron que el diseño final no fuera idéntico al de referencia.
