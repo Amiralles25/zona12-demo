@@ -219,18 +219,26 @@ El proyecto tiene filtros dedicados para móvil, sidebar en desktop, layout y na
 <table>
 <tr>
 <td align="center" width="50%"><b>Inicio — escritorio</b><br><img src="imagenes/diseño/actual/home-pc.png" width="420"></td>
+</tr>
+<tr>
 <td align="center" width="50%"><b>Inicio — móvil</b><br><img src="imagenes/diseño/actual/home-movil.png" width="220"></td>
 </tr>
 <tr>
 <td align="center"><b>Catálogo — escritorio</b><br><img src="imagenes/diseño/actual/selecciones-pc.png" width="420"></td>
-<td align="center"><b>Secciones — móvil</b><br><img src="imagenes/diseño/actual/secciones-movil.png" width="220"></td>
+</tr>
+<tr>
+<td align="center"><b>Catálogo — móvil</b><br><img src="imagenes/diseño/actual/secciones-movil.png" width="220"></td>
 </tr>
 <tr>
 <td align="center"><b>Filtros — escritorio</b><br><img src="imagenes/diseño/actual/filtros-pc.png" width="420"></td>
+</tr>
+<tr>
 <td align="center"><b>Filtros — móvil</b><br><img src="imagenes/diseño/actual/filtros-movil.png" width="220"></td>
 </tr>
 <tr>
 <td align="center"><b>Desplegable — móvil</b><br><img src="imagenes/diseño/actual/desplegable-movil.png" width="220"></td>
+</tr>
+<tr>
 <td align="center"><b>Buscador — móvil</b><br><img src="imagenes/diseño/actual/buscador-movil.png" width="220"></td>
 </tr>
 <tr>
@@ -238,14 +246,20 @@ El proyecto tiene filtros dedicados para móvil, sidebar en desktop, layout y na
 </tr>
 <tr>
 <td align="center"><b>Carrito — escritorio</b><br><img src="imagenes/diseño/actual/carrito-pc.png" width="420"></td>
+</tr>
+<tr>
 <td align="center"><b>Carrito — móvil</b><br><img src="imagenes/diseño/actual/carritos-movil.png" width="220"></td>
 </tr>
 <tr>
 <td align="center"><b>Pedido — escritorio</b><br><img src="imagenes/diseño/actual/pedido-pc.png" width="420"></td>
+</tr>
+<tr>
 <td align="center"><b>Pedido — móvil</b><br><img src="imagenes/diseño/actual/pedido-movil.png" width="220"></td>
 </tr>
 <tr>
 <td align="center"><b>Perfil — escritorio</b><br><img src="imagenes/diseño/actual/perfil-pc.png" width="420"></td>
+</tr>
+<tr>
 <td align="center"><b>Perfil — móvil</b><br><img src="imagenes/diseño/actual/perfil-movil.png" width="220"></td>
 </tr>
 <tr>
